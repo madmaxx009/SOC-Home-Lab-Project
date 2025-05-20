@@ -8,7 +8,9 @@ This project demonstrates a Security Operations Center (SOC) home lab environmen
 The setup includes three virtual machines:
 
 1.Attacker Machine: Kali Linux
+
 2.Target Machine: Ubuntu  (vulnerable web app, SSH, FTP)
+
 3.SIEM Server: Windows with Splunk Enterprise
 
 
