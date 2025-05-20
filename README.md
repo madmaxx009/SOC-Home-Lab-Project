@@ -52,11 +52,9 @@ Each alert is created in Splunk using search queries that detect suspicious beha
 ## Screenshots
 
 ![Screenshot 2025-05-20 102945](https://github.com/user-attachments/assets/c71a50e9-2e76-4046-a109-0f21e4b4d040)
+
 ![Screenshot 2025-05-20 102913](https://github.com/user-attachments/assets/3ae26b0e-ef43-476c-a0ec-46f6602f6bfe)
-![Screenshot 2025-05-20 102757](https://github.com/user-attachments/assets/08dead55-d814-4d18-a990-0a43799ebd8c)
-![Screenshot 2025-05-20 102734](https://github.com/user-attachments/assets/19abcc10-a0d0-4ee0-bb24-b328fe249938)
-![Screenshot 2025-05-20 102636](https://github.com/user-attachments/assets/d3ca8933-1613-42d6-b5ad-a030c8770669)
-![Screenshot 2025-05-20 102606](https://github.com/user-attachments/assets/32abccda-9eb1-44e6-a110-dcb10e89b855)
+
 ![Screenshot 2025-05-20 101105](https://github.com/user-attachments/assets/2b052128-cbab-48bc-8a8e-94e0558e94a4)
 
 
