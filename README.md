@@ -33,7 +33,7 @@ The setup includes three virtual machines:
   
    *Install and configure Splunk Universal Forwarder.
   
-   *Forward /var/log/auth.log and /var/log/apache2/* to the Splunk server.
+   * Forward /var/log/auth.log and /var/log/apache2/* to the Splunk server.
    
 2.Configure Splunk Server (Windows)
    *Install Splunk Enterprise.
@@ -56,9 +56,13 @@ The setup includes three virtual machines:
 
 ## Alerts Configured
 *SSH Brute Force Detection
+
 *Web Login Brute Force Detection
+
 *Web Directory Enumeration
+
 *FTP Anonymous Login Detection
+
 *Windows Failed Login Attempts (EventCode 4625)
 
 Each alert is created in Splunk using search queries that detect suspicious behavior and generate visual insights for security analysis.
@@ -75,7 +79,9 @@ Each alert is created in Splunk using search queries that detect suspicious beha
 ## Learning Outcomes
 
 *Gained hands-on experience with log forwarding and SIEM configuration.
+
 *Simulated real-world attacks to test detection capabilities.
+
 *Built proactive alerts and dashboards in Splunk.
 
 ## Future Improvements
