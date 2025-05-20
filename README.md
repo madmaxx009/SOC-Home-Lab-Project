@@ -59,6 +59,13 @@ Each alert is created in Splunk using search queries that detect suspicious beha
 ![Screenshot 2025-05-20 102606](https://github.com/user-attachments/assets/32abccda-9eb1-44e6-a110-dcb10e89b855)
 ![Screenshot 2025-05-20 101105](https://github.com/user-attachments/assets/2b052128-cbab-48bc-8a8e-94e0558e94a4)
 
+
+##Learning Outcomes
+
+*Gained hands-on experience with log forwarding and SIEM configuration.
+*Simulated real-world attacks to test detection capabilities.
+*Built proactive alerts and dashboards in Splunk.
+
 ## Future Improvements
 
 Add ELK Stack version
